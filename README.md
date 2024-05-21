@@ -1,3 +1,5 @@
+[![vk-api](https://img.shields.io/badge/vk--api-blue)](https://pypi.org/project/vk-api/)
+
 # Чат-бот в Контакте
 
 ### Описание проекта и используемые технологии
