@@ -1,10 +1,11 @@
-[![vk-api](https://img.shields.io/badge/vk--api-blue)](https://pypi.org/project/vk-api/)
+[![vk-api](https://img.shields.io/badge/vk--api-blue)](https://pypi.org/project/vk-api/)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # Чат-бот в Контакте
 
 ### Описание проекта и используемые технологии
 В этом проекте я упражнялась с библиотекой vk-api в тестовом сообществе В Контакте, где простой бот реагирует на приветствия, написанные на разных языках.
-Данный тренировочный чат-бот разрабатывался для основного группового проекта - ["Вместе ради жизни"](https://github.com/Studio-Yandex-Practicum/together-for-life)
+
+Данный тренировочный чат-бот разрабатывался для основного группового проекта - ["Вместе ради жизни"](https://github.com/Studio-Yandex-Practicum/together-for-life).
 
 
 ### Как запустить проект:
